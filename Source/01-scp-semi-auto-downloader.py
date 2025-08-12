@@ -1,5 +1,5 @@
 # 1-scp-semi-auto-downloader.py
-# This .py file is aiming at downloading files from remote server, since the relevant resources stored there.
+# This .py file is aiming at downloading files from remote server, since the relevant resources are stored there.
 # If you have all the dependencies saved locally, feel safe to ignore.
 # Jeff He @ Apr. 8
 
