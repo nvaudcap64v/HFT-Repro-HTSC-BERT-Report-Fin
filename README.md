@@ -4,7 +4,8 @@
 
 ## Overview
 
-This project, initiated by the Fintech Association of Hunan University, replicates the quantitative strategy outlined in HuaTai Securities' research report "*Sentiment Factor Based on BERT for Analyst Reports*". We implemented a crawler to collect analyst report summaries from Sina Finance, amassing **716,834 valid data points**.
+This project, initiated by the Fintech Association of Hunan University, replicates the quantitative strategy outlined in HuaTai Securities' research report "*BERT-Based Sentiment Factor from 
+Analyst Reports*". We implemented a crawler to collect analyst report summaries from Sina Finance, amassing **716,834 valid data points**.
 
 Key Achievements:
 1.  **Pre-trained** the [HIT Chinese RoBERTa-wwm-ext-large](https://huggingface.co/hfl/chinese-roberta-wwm-ext-large) model (`chinese_roberta_wwm_large_ext_L-24_H-1024_A-16`) on our dataset, achieving an impressive **accuracy of 99.7%**.
