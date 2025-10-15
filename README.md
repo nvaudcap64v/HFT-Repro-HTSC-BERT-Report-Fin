@@ -12,7 +12,17 @@ Key Achievements:
 2.  Utilized this pre-trained BERT model to score analyst report summaries spanning **January 2008 to December 2009**.
 3.  Conducted backtesting based on the sentiment scores, yielding an average **RankIC of -3.98%**.
 
-This project has been recognized and **featured on ByteDance's Trae Campus**.
+This project has been recognized and **featured on ByteDance's Trae Campus**. 
+
+**Access Methods:**
+
+🌐 **Direct Link**: [This Site](https://lcnziv86vkx6.feishu.cn/wiki/TSyGw995EiEmFfkoTaLcEPRqnTb)
+
+**Or follow these steps:**
+
+1. Visit the official page of [TRAE](https://www.trae.cn/)
+2. Navigate to **社区** → **精品案例库** → **最佳实践** → **数据分析**
+3. Select **华泰证券研报复现——基于 BERT 的分析师研报情感因子**
 
 ## Author
 
